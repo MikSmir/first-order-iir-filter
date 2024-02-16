@@ -1,5 +1,5 @@
 # first-order-iir-filter
-This code reads a stereo WAV file and outputs a lowpass filtered result based on a first-order analog RC lowpass filter circuit design.
+This program reads a stereo WAV file and outputs a lowpass filtered result based on a first-order analog RC lowpass filter circuit design.
 It also plots the frequency spectrum of both the input and output signals for both channels.
 
 In order to run this code, have a .wav stereo file (default one is provided as "smooth-ac-guitar-loop-93bpm-137706.wav").
