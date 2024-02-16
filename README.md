@@ -2,7 +2,7 @@
 This code reads a stereo WAV file and outputs a lowpass filtered result based on a first-order analog RC lowpass filter circuit design.
 It also plots the frequency spectrum of both the input and output signals for both channels.
 
-In order to run this code, have a .wav stereo file (default one is provided as "smooth-ac-guitar-loop-93bpm-137706.wav".
+In order to run this code, have a .wav stereo file (default one is provided as "smooth-ac-guitar-loop-93bpm-137706.wav").
 Next, run the LPF.m script and specify the .wav file you want filtered. Next, specify the parameters of the filter via the pop-up dialogue window. Lastly, specify the path you would prefer the filtered .wav output file to be saved to.
 
 --
